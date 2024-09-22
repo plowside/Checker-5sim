@@ -1,0 +1,10 @@
+proxy.supernovanet.org:9090:1fm5gk0-iso-us-t-r-st-r-s-uzlihvedx4:12345678
+proxy.supernovanet.org:9090:1fm5gk0-iso-us-t-r-st-r-s-wazu5sqecq:12345678
+proxy.supernovanet.org:9090:1fm5gk0-iso-us-t-r-st-r-s-jn2fxskbpn:12345678
+proxy.supernovanet.org:9090:1fm5gk0-iso-us-t-r-st-r-s-mygry4eqoe:12345678
+proxy.supernovanet.org:9090:1fm5gk0-iso-us-t-r-st-r-s-iqqfqclx3c:12345678
+proxy.supernovanet.org:9090:1fm5gk0-iso-us-t-r-st-r-s-vohex1z6kj:12345678
+proxy.supernovanet.org:9090:1fm5gk0-iso-us-t-r-st-r-s-oxj5xsb5ch:12345678
+proxy.supernovanet.org:9090:1fm5gk0-iso-us-t-r-st-r-s-vy5mm73wog:12345678
+proxy.supernovanet.org:9090:1fm5gk0-iso-us-t-r-st-r-s-fscqi6zbds:12345678
+proxy.supernovanet.org:9090:1fm5gk0-iso-us-t-r-st-r-s-vaksjfscey:12345678
